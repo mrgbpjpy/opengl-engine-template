@@ -1,0 +1,14 @@
+# Build
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
